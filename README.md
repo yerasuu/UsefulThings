@@ -1,6 +1,6 @@
 # UsefulThings
 
-This rtepository consists in amny usuful posts about Development I learn and discover
+This repository consists in amny usuful posts about Development I learn and discover
 
 ## Posts
 
